@@ -1,0 +1,12 @@
+In order to create Solitare:
+
+Visually:
+-Figure out a way to put a bunch of cards on the screen
+-Figure out a way so that when you are within the boundaries of a given card, when you click, it moves that card
+-Figure out collision, you don't really care about the cards collision but you do care about the mouse. If it's holding one card, it needs to not fuck with the other cards.
+
+Rules-wise:
+-You need to figure out how to assign suits and colors and numbers (OOP)
+-You need to figure out how to shuffle the cards
+-You need to figure out how to deal the cards
+-You need to figure out how to refresh cards from the deck
